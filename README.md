@@ -65,7 +65,7 @@ chmod +x docker_clean.sh docker_run.sh
 建议首先清理 Docker 环境，释放空间：
 
 ```bash
-sudo ./docker_clean.sh
+sudo bash ./docker_clean.sh
 ```
 
 此命令会：
@@ -82,7 +82,7 @@ sudo ./docker_clean.sh
 清理完成后，运行以下命令配置 Docker 镜像源，并启动容器：
 
 ```bash
-sudo ./docker_run.sh my_container
+sudo bash ./docker_run.sh my_container
 ```
 
 此命令会：
