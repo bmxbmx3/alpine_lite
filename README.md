@@ -1,6 +1,6 @@
-# 🚀 Docker 环境配置与清理脚本
+# 🚀 Alpine-Lite 环境配置与清理脚本
 
-一套简洁易用的 Docker 脚本，帮助你快速配置 Docker 镜像源、清理 Docker 环境，并构建自定义 Docker 镜像，优化在中国大陆的使用体验。
+一套简洁高效的 Alpine-Lite 脚本，基于轻量级 Alpine 镜像，帮助你快速配置 Docker 镜像源、清理 Docker 环境，并构建自定义 Docker 镜像，优化在中国大陆的使用体验。
 
 ---
 
